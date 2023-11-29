@@ -17,10 +17,9 @@ Sou uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 
 
-## 🌱 Aprendendo Atualmente:
+## 🌱 Aprendendo no momento:
 
-- Aprofundando conhecimentos em [Inserir Tecnologia ou Framework]
-- Explorando melhores práticas de UI/UX
+- Aprofundando conhecimentos em SQL para análise de dados. 
 
 ## 💻 Atualmente no meu GitHub
 
