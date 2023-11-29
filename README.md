@@ -17,6 +17,7 @@ Sou uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada
 
 ## 🌱 Aprendendo no momento:
 
+- Faculdade de Gestão da Tecnlogia da Informação 4/5.
 - Aprofundando meus conhecimentos em SQL para análise de dados. 
 
 ## 💻 Atualmente no meu GitHub
