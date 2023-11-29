@@ -19,7 +19,7 @@ Sou uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada
 
 ## 🌱 Aprendendo no momento:
 
-- Aprofundando conhecimentos em SQL para análise de dados. 
+- Aprofundando meus conhecimentos em SQL para análise de dados. 
 
 ## 💻 Atualmente no meu GitHub
 
