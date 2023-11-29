@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, me chamo Laleska! 👋
 
-<!--
-**Laleskapr/Laleskapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada por transformar ideias em experiências digitais. Atualmente, estou mergulhada no universo do Front-end, combinando meu conhecimento em Gestão de TI com a criatividade e precisão técnica necessárias para criar interfaces interessantes para os usúarios.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laleskaportela/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que eu faço:
+
+- Estudante de Gestão de Tecnologia da Informação 💼
+- Desenvolvedor(a) Front-end em preparação 💻
+
+## 💡 Habilidades:
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-157B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+
+
+## 🌱 Aprendendo Atualmente:
+
+- Aprofundando conhecimentos em [Inserir Tecnologia ou Framework]
+- Explorando melhores práticas de UI/UX
+
+## Atualmente no meu GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laleskapr)](https://github.com/Laleskapr/github-readme-stats)
+
