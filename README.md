@@ -4,22 +4,22 @@ Uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada por
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laleskaportela/)
 
-## 🚀 O que eu faço:
+### 🚀 O que eu faço:
 
 - Estudante de Gestão de Tecnologia da Informação 
 - Desenvolvedor(a) Front-end em preparação 
 
-## 💡 Habilidades:
+### 💡 Habilidades:
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-157B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" /> 
 
-## 🌱 Aprendendo no momento:
+### 🌱 Aprendendo no momento:
 
 - Aprofundando meus conhecimentos em SQL para análise de dados. 
 
-## 💻 Atualmente no meu GitHub
+### 💻 Atualmente no meu GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laleskapr)](https://github.com/Laleskapr/github-readme-stats)
 
