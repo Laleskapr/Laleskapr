@@ -1,5 +1,5 @@
 Olá, me chamo Laleska 👋      
-Uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada por transformar ideias em experiências digitais. Atualmente, estou mergulhada no universo do Front-end, combinando meu conhecimento em Gestão de TI com a criatividade e precisão técnica necessárias para criar interfaces interessantes para os usúarios.
+Uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada por transformar ideias em experiências digitais. Atualmente, estou mergulhada no universo de Análise de Dados, combinando meu conhecimento em Gestão de TI com a criatividade e precisão técnica necessárias para criar relatórios interessantes e funcionais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laleskaportela/)
 
