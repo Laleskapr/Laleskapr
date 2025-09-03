@@ -5,8 +5,8 @@ Uma entusiasta de Tecnologia da Informação com foco em Gestão, apaixonada por
 
 ### 🚀 O que eu faço:
 
-- Estudante de Gestão de Tecnologia da Informação 
-- Desenvolvedor(a) Front-end em preparação 
+- Formada em Gestão de Tecnologia da Informação 
+- Se especializando em análise de dados
 
 ### 💡 Habilidades:
 <div style="display: inline_block"><br/>
